@@ -11,6 +11,7 @@ Notice: The idea is not to save Flash Player, but to open source Flash!
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
 This petition will be delivered to Adobe.
+- [Homestar Runner](http://homestarrunner.com)
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
