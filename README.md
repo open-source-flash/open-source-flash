@@ -15,7 +15,11 @@ Flash files of historic significance
 
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
 - [Homestuck BETA](http://www.mspaintadventures.com/?s=5)
+- [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 
 Signed
 ======
-sebboh
+
+- https://twitter.com/bit101/status/889911479104933889
+- https://twitter.com/fwa/status/889957817330917377
+- sebboh
