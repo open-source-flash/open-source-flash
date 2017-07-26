@@ -6,6 +6,8 @@ Flash is an important piece of Internet history and killing Flash Player means f
 
 Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source!
 
+Notice: The idea is not to save Flash Player, but to open source Flash!
+
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
 This petition will be delivered to Adobe.
