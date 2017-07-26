@@ -12,3 +12,7 @@ This petition will be delivered to Adobe.
 
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
+
+
+Cool Flash Links:
+- Video of eye4u.com flash intro: https://www.youtube.com/watch?v=3aT4wt0fmGU .
