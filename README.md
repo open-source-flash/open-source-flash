@@ -9,3 +9,5 @@ Open sourcing Flash would be a good solution to keep Flash alive but safe for ar
 Star this repository to sign the petition. Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
 This petition will be delivered to Adobe.
+
+[Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
