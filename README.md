@@ -14,3 +14,4 @@ This petition will be delivered to Adobe.
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
+- [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
