@@ -10,6 +10,7 @@ Notice: The idea is not to save Flash Player, but to open source Flash!
 
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
+This petition will be delivered to Adobe.
 
 Discussion
 ==========
@@ -27,7 +28,6 @@ Flash files of historic significance
 Signed
 ======
 
-This petition will be delivered to Adobe.
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
 - sebboh
