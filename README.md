@@ -10,5 +10,12 @@ Star this repository to sign the petition. Pull requests are also welcome. Add c
 
 This petition will be delivered to Adobe.
 
-- https://twitter.com/bit101/status/889911479104933889
-- https://twitter.com/fwa/status/889957817330917377
+Flash files of historic significance
+====================================
+
+- [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
+- [Homestuck BETA](http://www.mspaintadventures.com/?s=5)
+
+Signed
+======
+sebboh
