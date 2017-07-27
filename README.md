@@ -24,6 +24,7 @@ This petition will be delivered to Adobe.
 - https://twitter.com/TomFulp/status/889883079137005570
 - https://twitter.com/tha_rami/status/890051049259663361
 - [Gizmodo article](http://gizmodo.com/adobe-flash-fans-want-a-chance-to-fix-its-one-million-b-1797284544)
+- [Petition discussion on Linux Subreddit](https://www.reddit.com/r/linux/comments/6pt1ve/adobe_flash_fans_want_a_chance_to_fix_its_one/)
 
 ## Flash as an art medium
 Flash was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
