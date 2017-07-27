@@ -30,9 +30,6 @@ Flash was a platform for creative expression in an exciting new medium with glob
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
-- [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
-- [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
-- [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
 - [sofake](http://sofake.com)
 - [WEFAIL](http://wefail.com)
@@ -44,3 +41,6 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
+- [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
+- [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
+- [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
