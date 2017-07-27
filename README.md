@@ -24,6 +24,8 @@ This petition will be delivered to Adobe.
 - [Petition discussion on Linux Subreddit](https://www.reddit.com/r/linux/comments/6pt1ve/adobe_flash_fans_want_a_chance_to_fix_its_one/)
 - [Infoworld article](http://www.infoworld.com/article/3211348/web-development/petition-asks-adobe-to-open-source-flash.amp.html)
 - [SD Times article](http://sdtimes.com/developer-creates-petition-open-source-flash-specification/)
+- http://webwereld.nl/software/100140-maak-flash-open-source
+
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
 - [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
