@@ -49,7 +49,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
 
 ## Current state of Flash preservation
-There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash:
+There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
 - [Gnash](https://www.gnu.org/software/gnash/)
 - [Lightspark](https://lightspark.github.io/)
 - [Shumway](https://mozilla.github.io/shumway/)
