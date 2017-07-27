@@ -4,7 +4,7 @@ So Adobe, you're [killing Flash now](https://blogs.adobe.com/conversations/2017/
 
 Flash is an important piece of Internet history and killing Flash means future generations can't access the past. Games, experiments and websites would be forgotten.
 
-Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it. Another possibility would be to have a separate browser. There's so many possibilities one can't even imagine.
+Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it. Another possibility would be to have a separate browser.
 
 We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
 
