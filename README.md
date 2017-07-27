@@ -34,6 +34,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Hoogerbrugge](http://nails.hoogerbrugge.com)
 - [sofake](http://sofake.com)
 - [WEFAIL](http://wefail.com)
+- [dontclick.it](http://www.dontclick.it/)
 - [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
@@ -46,7 +47,6 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
-- [dontclick.it](http://www.dontclick.it/)
 
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash:
