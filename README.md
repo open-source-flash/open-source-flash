@@ -1,4 +1,4 @@
-# Petition to open source Flash
+# Petition to open source Flash spec
 
 So Adobe, you're [killing Flash now](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html).
 
