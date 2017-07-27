@@ -6,7 +6,7 @@ Flash is an important piece of Internet history and killing Flash Player means f
 
 Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source!
 
-We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open soure alternatives.
+We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
 
 Notice: The idea is not to save Flash Player, but to open source Flash!
 
