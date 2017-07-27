@@ -34,6 +34,9 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [sofake](http://sofake.com)
 - [WEFAIL](http://wefail.com)
 - [Hoogerbrugge](http://nails.hoogerbrugge.com)
+- [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
+- [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
+- [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
 - [Metal Gear Awesome](http://metalgear.wikia.com/wiki/Metal_Gear_Awesome)
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
@@ -41,6 +44,3 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
-- [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
-- [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
-- [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
