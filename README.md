@@ -25,6 +25,7 @@ This petition will be delivered to Adobe.
 ## Example Flash projects
 - [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
+- [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
 - [Homestuck BETA](http://www.mspaintadventures.com/?s=5)
