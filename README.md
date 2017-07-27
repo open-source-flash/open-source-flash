@@ -6,7 +6,7 @@ Flash is an important piece of Internet history and killing Flash means future g
 
 Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it.
 
-We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open soure alternatives.
+We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
 
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
