@@ -34,6 +34,8 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
+- [sofake](http://sofake.com)
+- [WEFAIL](http://wefail.com)
 - [Metal Gear Awesome](http://metalgear.wikia.com/wiki/Metal_Gear_Awesome)
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
