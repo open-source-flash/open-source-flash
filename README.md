@@ -22,8 +22,9 @@ This petition will be delivered to Adobe.
 - https://twitter.com/fwa/status/889957817330917377
 - https://twitter.com/TomFulp/status/889883079137005570
 
-## Flash files of historic significance
-- Video of eye4u.com flash intro: https://www.youtube.com/watch?v=3aT4wt0fmGU .
+## Example Flash projects
+- [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
+- [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
 - [Homestuck BETA](http://www.mspaintadventures.com/?s=5)
