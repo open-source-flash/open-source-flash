@@ -39,4 +39,4 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
-- http://nails.hoogerbrugge.com/
+- http://nails.hoogerbrugge.com
