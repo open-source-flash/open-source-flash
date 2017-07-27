@@ -32,13 +32,14 @@ We do lots to save and restore old manuscripts so, why not consider any interact
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
-- [Xiao Xiao](https://www.youtube.com/watch?v=eplAQ3fEr8M)
 - [Hoogerbrugge](http://nails.hoogerbrugge.com)
 - [sofake](http://sofake.com)
 - [WEFAIL](http://wefail.com)
 - [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
+- [Video of Xiao Xiao](- [Xiao Xiao](https://www.youtube.com/watch?v=eplAQ3fEr8M)
+)
 - [Metal Gear Awesome](http://metalgear.wikia.com/wiki/Metal_Gear_Awesome)
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
