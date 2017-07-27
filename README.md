@@ -21,6 +21,7 @@ This petition will be delivered to Adobe.
 - https://twitter.com/TomFulp/status/889883079137005570
 - https://twitter.com/tha_rami/status/890051049259663361
 - [Gizmodo article](http://gizmodo.com/adobe-flash-fans-want-a-chance-to-fix-its-one-million-b-1797284544)
+- [Petition discussion on Linux Subreddit](https://www.reddit.com/r/linux/comments/6pt1ve/adobe_flash_fans_want_a_chance_to_fix_its_one/)
 
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
