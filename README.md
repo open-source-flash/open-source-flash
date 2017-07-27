@@ -50,6 +50,9 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
+- [DICEWARS](http://www.gamedesign.jp/flash/dice/dice.html)
+- [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
+- [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
