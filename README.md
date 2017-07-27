@@ -23,7 +23,12 @@ This petition will be delivered to Adobe.
 - https://twitter.com/fwa/status/889957817330917377
 - https://twitter.com/TomFulp/status/889883079137005570
 
-## Example Flash projects
+## Flash as an art medium
+Flash was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
+
+We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
+
+Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
 - [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
@@ -34,11 +39,4 @@ This petition will be delivered to Adobe.
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
-
-## Flash as an art medium
-Flash was also a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
-
-We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
-
-Feel free to add other interactive art projects that you think deserve to be saved:
 - http://nails.hoogerbrugge.com/
