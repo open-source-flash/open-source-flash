@@ -1,6 +1,6 @@
 # Petition to open source Flash spec
 
-So Adobe, you're [killing Flash now](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's fine since you apparently can't fix it.
+[Adobe is killing Flash player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
 
 However Flash is an important piece of Internet history and killing Flash means future generations can't access the past. Games, experiments and websites would be forgotten.
 
