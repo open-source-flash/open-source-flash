@@ -36,6 +36,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
 - [sofake](http://sofake.com)
 - [WEFAIL](http://wefail.com)
+- [Hoogerbrugge](http://nails.hoogerbrugge.com)
 - [Metal Gear Awesome](http://metalgear.wikia.com/wiki/Metal_Gear_Awesome)
 - [Homestar Runner](http://homestarrunner.com)
 - [Tales for the L33T: Romeo and Juliet, by Chris Coutts.](http://www.albinoblacksheep.com/flash/romjul)
@@ -43,4 +44,3 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [I wish I Were the Moon](http://www.kongregate.com/games/danielben/i-wish-i-were-the-moon)
 - [Cursor\*10](http://www.flashgamesplayer.com/online/Cursor-10.html)
 - [Clock2D.com](https://www.clock2d.com/) - Alarm clock radio with themes, fullscreen, countdown, and sharing features.
-- http://nails.hoogerbrugge.com
