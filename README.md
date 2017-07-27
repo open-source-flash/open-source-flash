@@ -14,7 +14,7 @@ __Star this repository to sign the petition.__ Pull requests are also welcome. A
 
 This petition will be delivered to Adobe.
 
-Discussion elsewhere:
+## Discussion elsewhere
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
 - [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
 - [Flash 2020 and the Future - Newgrounds](http://www.newgrounds.com/bbs/topic/1424896)
@@ -22,13 +22,12 @@ Discussion elsewhere:
 - https://twitter.com/fwa/status/889957817330917377
 - https://twitter.com/TomFulp/status/889883079137005570
 
-Cool Flash Links:
+## Cool Flash Links
 - Video of eye4u.com flash intro: https://www.youtube.com/watch?v=3aT4wt0fmGU .
 - [Homestar Runner](http://homestarrunner.com)
 
-Flash as an art medium: 
-Flash quickly became a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. There were many but one that I remember vividly is Han Hoogerbrugge. In particular his project Nails (link below)
-These digital pieces were both mesmerizing and disturbing. 
+## Flash as an art medium
+Flash was also a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
 
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
