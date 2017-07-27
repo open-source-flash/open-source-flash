@@ -6,14 +6,25 @@ Flash is an important piece of Internet history and killing Flash Player means f
 
 Open sourcing Flash would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source!
 
+We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open soure alternatives.
+
 Notice: The idea is not to save Flash Player, but to open source Flash!
 
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
 
 This petition will be delivered to Adobe.
+
+Discussion elsewhere:
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
+- [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
+- [Flash 2020 and the Future - Newgrounds](http://www.newgrounds.com/bbs/topic/1424896)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
+- https://twitter.com/TomFulp/status/889883079137005570
+
+Cool Flash Links:
+- Video of eye4u.com flash intro: https://www.youtube.com/watch?v=3aT4wt0fmGU .
+- [Homestar Runner](http://homestarrunner.com)
 
 Flash as an art medium: 
 Flash quickly became a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. There were many but one that I remember vividly is Han Hoogerbrugge. In particular his project Nails (link below)
