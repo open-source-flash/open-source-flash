@@ -44,6 +44,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [WEFAIL](http://wefail.com)
 - [dontclick.it](http://www.dontclick.it/)
 - [Levitated](http://levitated.net/daily/index.html)
+- [Flixel](http://flixel.org/)
 - [Video of eye4u.com flash intro](https://www.youtube.com/watch?v=3aT4wt0fmGU)
 - [Video of 2Advanced - Expansions](https://www.youtube.com/watch?v=SVm6d87ERYg)
 - [Video of Who's We Studios](https://www.youtube.com/watch?v=Y6jIInoBrHQ)
