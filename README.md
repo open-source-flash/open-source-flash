@@ -12,18 +12,20 @@ __Star this repository to sign the petition.__ Pull requests are also welcome. A
 
 This petition will be delivered to Adobe.
 
-## Discussion & references
+## Discussion
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
-- [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
 - [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
 - [Flash 2020 and the Future - Newgrounds](http://www.newgrounds.com/bbs/topic/1424896)
-- [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
-- [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
 - https://twitter.com/TomFulp/status/889883079137005570
 - https://twitter.com/tha_rami/status/890051049259663361
 - [Gizmodo article](http://gizmodo.com/adobe-flash-fans-want-a-chance-to-fix-its-one-million-b-1797284544)
+
+## References
+- [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
+- [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
+- [Adobe open source](https://www.adobe.io/open/open-source.html)
 
 ## Flash as an art medium
 Flash was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
@@ -31,6 +33,7 @@ Flash was a platform for creative expression in an exciting new medium with glob
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
+- [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
 - [Hoogerbrugge](http://nails.hoogerbrugge.com)
 - [sofake](http://sofake.com)
