@@ -16,6 +16,7 @@ This petition will be delivered to Adobe.
 
 Discussion elsewhere:
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
+- [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
 - [Flash 2020 and the Future - Newgrounds](http://www.newgrounds.com/bbs/topic/1424896)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
