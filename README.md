@@ -19,6 +19,7 @@ This petition will be delivered to Adobe.
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
 - [Should Adobe Open Source Flash](https://gitgalaxy.com/should-adobe-open-source-flash/)
 - [Flash 2020 and the Future - Newgrounds](http://www.newgrounds.com/bbs/topic/1424896)
+- [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
 - [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
