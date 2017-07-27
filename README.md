@@ -22,6 +22,7 @@ This petition will be delivered to Adobe.
 - https://twitter.com/bit101/status/889911479104933889
 - https://twitter.com/fwa/status/889957817330917377
 - https://twitter.com/TomFulp/status/889883079137005570
+- https://twitter.com/tha_rami/status/890051049259663361
 - [Gizmodo article](http://gizmodo.com/adobe-flash-fans-want-a-chance-to-fix-its-one-million-b-1797284544)
 
 ## Flash as an art medium
