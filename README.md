@@ -52,3 +52,4 @@ There's already some projects to preserve Flash. The problem is that they're not
 - [Gnash](https://www.gnu.org/software/gnash/)
 - [Lightspark](https://lightspark.github.io/)
 - [Shumway](https://mozilla.github.io/shumway/)
+- [SWF specs](https://www.adobe.com/devnet/swf.html)
