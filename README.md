@@ -31,7 +31,7 @@ This petition will be delivered to Adobe.
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
 - [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
 - [Adobe open source](https://www.adobe.io/open/open-source.html)
-- [https://www.change.org/p/adobe-systems-make-flash-open-source-before-it-s-too-late](Another petition)
+- [Another petition](https://www.change.org/p/adobe-systems-make-flash-open-source-before-it-s-too-late)
 
 ## Flash as an art medium
 Flash was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
