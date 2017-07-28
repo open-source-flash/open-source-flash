@@ -60,6 +60,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [DICEWARS](http://www.gamedesign.jp/flash/dice/dice.html)
 - [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
+- [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
