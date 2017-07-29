@@ -1,14 +1,14 @@
-# Petition to open source Flash spec
+# Petition to open source Flash and Shockwave spec
 
-[Adobe is going to stop distributing and updating Flash player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
+[Adobe is going to stop distributing and updating Flash player and the Shockwave player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
 
-However Flash is an important piece of Internet history and killing Flash means future generations can't access the past. Games, experiments and websites would be forgotten.
+However Flash along with its sister project Shockwave is an important piece of Internet history and killing Flash and Shockwave means future generations can't access the past. Games, experiments and websites would be forgotten.
 
-Open sourcing Flash spec would be a good solution to keep Flash projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it. Another possibility would be to have a separate browser. __We're not saying Flash player should be preserved as is.__
+Open sourcing Flash and the Shockwave spec would be a good solution to keep Flash and Shockwave projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla/drc/dir to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it. Another possibility would be to have a separate browser. __We're not saying Flash and Shockwave player should be preserved as is.__
 
 We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
 
-__Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash links here and reasons to open source Flash.
+__Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash and Shockwave links here and reasons to open source Flash and Shockwave.
 
 This petition will be delivered to Adobe.
 
@@ -35,8 +35,8 @@ This petition will be delivered to Adobe.
 - [Adobe open source](https://www.adobe.io/open/open-source.html)
 - [Another petition](https://www.change.org/p/adobe-systems-make-flash-open-source-before-it-s-too-late)
 
-## Flash as an art medium
-Flash was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
+## Flash and Shockwave as an art medium
+Flash and Shockwave was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
 
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
@@ -66,7 +66,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 
-## Current state of Flash preservation
+## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
 - [Gnash](https://www.gnu.org/software/gnash/)
 - [Lightspark](https://lightspark.github.io/)
