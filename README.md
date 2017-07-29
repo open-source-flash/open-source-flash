@@ -65,7 +65,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
-- [Biomediaproject](http://biomediaproject.com) - Bionicle website designed to be the biggest archive of all the bionicle promotional material, even has available to play the Mata Nui Online Game that isn't even on the lego website anymore. Despite being bionicle themed, it also has an archive of pretty much every game from the lego website that they were able to archive, most of it shockwave rather than flash.
+- [Biomediaproject](http://biomediaproject.com) - Bionicle website designed to be the biggest archive of all the bionicle promotional material, even has available to play the Mata Nui Online Game that isn't even on the lego website anymore. Despite being bionicle themed, it also has an archive of pretty much every game from the lego website that they were able to archive, much of it shockwave rather than flash.
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
