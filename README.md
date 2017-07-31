@@ -67,7 +67,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
-
+- [Amanita Design Games](http://amanita-design.net/games.html)
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
 - [Gnash](https://www.gnu.org/software/gnash/)
