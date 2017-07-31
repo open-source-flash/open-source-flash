@@ -27,7 +27,10 @@ This petition will be delivered to Adobe.
 - [MakeUseOf article](http://www.makeuseof.com/tag/developers-petition-adobe-open-source-flash/)
 - http://webwereld.nl/software/100140-maak-flash-open-source
 - http://mobil.derstandard.at/2000061874513/Open-Source-Petition-Fans-wollen-Flash-weiterleben-lassen
+- https://www.heise.de/amp/meldung/Petition-Flash-als-Open-Source-Rentner-3786837.html
 - http://www.chip.pl/2017/07/adobe-flash-jako-open-source/
+- http://www.oschina.net/news/87212/petition-to-open-source-flash-spec
+- http://4pda.ru/2017/07/27/345658/
 
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
@@ -65,6 +68,12 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
+- [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
+- [Realm of the Mad God](http://realmofthemadgod.com/)
+- [Amanita Design Games](http://amanita-design.net/games.html)
+- [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
+- [Flashmixer](http://www.flashmixer.de)
+- [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
 
 
 ## Current state of Flash and Shockwave preservation
@@ -73,3 +82,8 @@ There's already some projects to preserve Flash. The problem is that they're not
 - [Lightspark](https://lightspark.github.io/)
 - [Shumway](https://mozilla.github.io/shumway/)
 - [SWF specs](https://www.adobe.com/devnet/swf.html)
+
+## Available analysis
+Projects that don't preserve Flash as such but provide knowledge about the file format:
+- [Blitzableiter](https://github.com/rtezli/Blitzableiter)
+    - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
