@@ -33,6 +33,7 @@ This petition will be delivered to Adobe.
 - http://www.chip.pl/2017/07/adobe-flash-jako-open-source/
 - http://www.oschina.net/news/87212/petition-to-open-source-flash-spec
 - http://4pda.ru/2017/07/27/345658/
+- https://www.xataka.com/aplicaciones/deberia-convertirse-adobe-flash-en-open-source-tres-razones-a-favor-y-tres-en-contra
 
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
