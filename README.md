@@ -73,6 +73,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Amanita Design Games](http://amanita-design.net/games.html)
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
 - [Flashmixer](http://www.flashmixer.de)
+- [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
 
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
