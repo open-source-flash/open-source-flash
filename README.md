@@ -69,6 +69,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
+- [Realm of the Mad God](http://realmofthemadgod.com/)
 - [Amanita Design Games](http://amanita-design.net/games.html)
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
 - [Flashmixer](http://www.flashmixer.de)
