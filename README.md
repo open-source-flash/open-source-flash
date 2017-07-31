@@ -69,6 +69,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
+- [Flashmixer](http://www.flashmixer.de)
 
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
