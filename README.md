@@ -6,7 +6,7 @@ However Flash along with its sister project Shockwave is an important piece of I
 
 Open sourcing Flash and the Shockwave spec would be a good solution to keep Flash and Shockwave projects alive safely for archive reasons. Don't know how, but that's the beauty of open source: you never know what will come up after you go open source! There might be a way to convert swf/fla/drc/dir to HTML5/canvas/webgl/webassembly, or some might write a standalone player for it. Another possibility would be to have a separate browser. __We're not saying Flash and Shockwave player should be preserved as is.__
 
-We understand that there are licenced components you can not release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
+We understand that there can be licensed components you might not be able to release. Simply leave them out with a note explaining what was removed. We will either bypass them, or replace them with open source alternatives.
 
 __Star this repository to sign the petition.__ Pull requests are also welcome. Add cool Flash and Shockwave links here and reasons to open source Flash and Shockwave.
 
