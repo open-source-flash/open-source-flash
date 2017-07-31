@@ -27,7 +27,9 @@ This petition will be delivered to Adobe.
 - [MakeUseOf article](http://www.makeuseof.com/tag/developers-petition-adobe-open-source-flash/)
 - http://webwereld.nl/software/100140-maak-flash-open-source
 - http://mobil.derstandard.at/2000061874513/Open-Source-Petition-Fans-wollen-Flash-weiterleben-lassen
+- https://www.heise.de/amp/meldung/Petition-Flash-als-Open-Source-Rentner-3786837.html
 - http://www.chip.pl/2017/07/adobe-flash-jako-open-source/
+- http://www.oschina.net/news/87212/petition-to-open-source-flash-spec
 - http://4pda.ru/2017/07/27/345658/
 
 ## References
@@ -68,6 +70,9 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
 - [Amanita Design Games](http://amanita-design.net/games.html)
+- [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
+- [Flashmixer](http://www.flashmixer.de)
+
 ## Current state of Flash preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
 - [Gnash](https://www.gnu.org/software/gnash/)
