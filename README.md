@@ -12,7 +12,7 @@ __Star this repository to sign the petition.__ Pull requests are also welcome. A
 
 This petition will be delivered to Adobe.
 
-_[Contributors](https://github.com/pakastin/open-source-flash/graphs/contributors) and [signers](https://github.com/pakastin/open-source-flash/stargazers)_
+-- _[Contributors](https://github.com/pakastin/open-source-flash/graphs/contributors) and [signers](https://github.com/pakastin/open-source-flash/stargazers)_
 
 ## Discussion
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
