@@ -81,7 +81,7 @@ There's already some projects to preserve Flash. The problem is that they're not
 - [Shumway](https://mozilla.github.io/shumway/)
 - [SWF specs](https://www.adobe.com/devnet/swf.html)
 
-+## Available analysis
+## Available analysis
 Projects that don't preserve Flash as such but provide knowledge about the file format:
 - [Blitzableiter](https://github.com/rtezli/Blitzableiter)
     - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
