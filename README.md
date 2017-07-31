@@ -29,6 +29,7 @@ This petition will be delivered to Adobe.
 - http://mobil.derstandard.at/2000061874513/Open-Source-Petition-Fans-wollen-Flash-weiterleben-lassen
 - https://www.heise.de/amp/meldung/Petition-Flash-als-Open-Source-Rentner-3786837.html
 - http://www.chip.pl/2017/07/adobe-flash-jako-open-source/
+- http://www.oschina.net/news/87212/petition-to-open-source-flash-spec
 - http://4pda.ru/2017/07/27/345658/
 
 ## References
