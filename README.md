@@ -42,6 +42,7 @@ This petition will be delivered to Adobe.
 - https://www.mikrobitti.fi/2017/07/adobea-vaaditaan-avaamaan-flash-playerin-lahdekoodi/
 - https://thenextweb.com/dd/2017/07/28/instead-of-killing-flash-we-should-save-it-for-posterity/#.tnw_KXtAGuyp
 - https://www.dunyahalleri.com/adobeye-flash-baskisi/
+- https://opensource.srad.jp/story/17/07/30/0441200/
 
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
