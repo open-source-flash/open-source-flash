@@ -37,6 +37,7 @@ This petition will be delivered to Adobe.
 - http://news.softpedia.com/news/adobe-should-open-source-flash-player-petition-requires-517227.shtml
 - https://github.com/mozilla/shumway/issues/2438
 - https://twitter.com/pakastin/status/892042787771879424
+- https://techworld.idg.se/2.2524/1.686541/han-ska-radda-flash
 
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
