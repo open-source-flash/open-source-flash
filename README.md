@@ -104,13 +104,13 @@ These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devne
 - [Starling](https://gamua.com/starling/) - The Cross Platform Game Engine used by thousands to publish GPU rendered games, it also uses the same famous Flash api for display list.
 - [Feathers](https://feathersui.com/) - Feathers puts it all together in one package — blazing fast GPU powered graphics, an impressive number of skinning options, and an extensible component architecture to create a smooth and responsive experience.
 
-## Next generation community efforts for Action Script
-Here is a display of technologies, that are using `Action Script` without being tied to Adobe
+## Next generation community efforts for ActionScript
+Here is a display of technologies, that are using `ActionScript` without being tied to Adobe
 - [Nextgen ActionScript](https://nextgenactionscript.com/) - Use ActionScript in a web browser... without a plug-in.
 - [blog post](https://joshblog.net/2015/introducing-nextgen-actionscript/) regarding the technology
 - [OpenFL](http://www.openfl.org/) - OpenFL uses the familiar Flash API, but goes everywhere that Flash Player cannot. publishing native, Flash and HTML5 applications using one seamless toolset.
-- [FLEX](http://flex.apache.org/) - the main display list/ layout engine made by Adobe configured with MXML, was
-open sourced by Adobe. Now it is being developed by the guys at NextGen Actionscript
+- [FLEX](http://flex.apache.org/) - the main display list / layout engine made by Adobe configured with MXML, was
+open sourced by Adobe. Now it is being developed by the guys at NextGen ActionScript
 - [FLEX description](http://flex.apache.org/about-whatis.html) - for more details
   
 OpenFl can compile code in HAXE into SWF, which means someone knows how to hack these binaries spec.
