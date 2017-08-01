@@ -101,7 +101,10 @@ There's already some projects to preserve Flash. The problem is that they're not
 Projects that don't preserve Flash as such but provide knowledge about the file format:
 - [Blitzableiter](https://github.com/rtezli/Blitzableiter)
     - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
-    
+
+## Decompilers/Disassemblers
+- [FFDec](https://sourceforge.net/projects/ffdec/)
+
 ## Active developers communities
 These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
 - [Starling](https://gamua.com/starling/) - The Cross Platform Game Engine used by thousands to publish GPU rendered games, it also uses the same famous Flash api for display list.
