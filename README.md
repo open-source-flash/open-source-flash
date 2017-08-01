@@ -100,12 +100,12 @@ Projects that don't preserve Flash as such but provide knowledge about the file 
     - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
     
 ## Active developers communities
-these communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
+These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
 - [Starling](https://gamua.com/starling/) - The Cross Platform Game Engine used by thousands to publish GPU rendered games, it also uses the same famous Flash api for display list.
-- [Feathers](https://feathersui.com/) - Feathers puts it all together in one package — blazing fast GPU powered graphics, an impressive number of skinning options, and an extensible component architecture... to create a smooth and responsive experience.
+- [Feathers](https://feathersui.com/) - Feathers puts it all together in one package — blazing fast GPU powered graphics, an impressive number of skinning options, and an extensible component architecture to create a smooth and responsive experience.
 
-## next generation community efforts for Action Script
-here is a display of technologies, that are using `Action Script` without being tied to Adobe
+## Next generation community efforts for Action Script
+Here is a display of technologies, that are using `Action Script` without being tied to Adobe
 - [Nextgen ActionScript](https://nextgenactionscript.com/) - Use ActionScript in a web browser... without a plug-in.
 - [blog post](https://joshblog.net/2015/introducing-nextgen-actionscript/) regarding the technology
 - [OpenFL](http://www.openfl.org/) - OpenFL uses the familiar Flash API, but goes everywhere that Flash Player cannot. publishing native, Flash and HTML5 applications using one seamless toolset.
