@@ -116,5 +116,5 @@ Here is a display of technologies, that are using `ActionScript` without being t
 open sourced by Adobe. Now it is being developed by the guys at NextGen ActionScript
 - [FLEX description](http://flex.apache.org/about-whatis.html) - for more details
   
-OpenFl can compile code in HAXE into SWF, which means someone knows how to hack these binaries spec.
-theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas instead of Adobe's AGAL and use [Nextgen ActionScript](https://nextgenactionscript.com/) to transpile it into javascript. this induces the following flow - migrating Flash based source code into the web.
+OpenFL can compile code in Haxe into SWF, which means someone knows how to hack these binaries spec.
+Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas instead of Adobe's AGAL and use [Nextgen ActionScript](https://nextgenactionscript.com/) to transpile it into javascript. This induces the following flow - migrating Flash based source code into the web.
