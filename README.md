@@ -101,8 +101,6 @@ There's already some projects to preserve Flash. The problem is that they're not
 Projects that don't preserve Flash as such but provide knowledge about the file format:
 - [Blitzableiter](https://github.com/rtezli/Blitzableiter)
     - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
-
-## Decompilers/Disassemblers
 - [FFDec](https://sourceforge.net/projects/ffdec/)
 
 ## Active developers communities
