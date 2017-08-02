@@ -102,6 +102,8 @@ Projects that don't preserve Flash as such but provide knowledge about the file 
 - [Blitzableiter](https://github.com/rtezli/Blitzableiter)
     - [Blitzableiter presentation](http://www.recurity-labs.com/content/pub/FX_Blitzableiter_BHUSA2010.pdf)
 - [FFDec](https://sourceforge.net/projects/ffdec/)
+- [Schockabsorber](https://github.com/eriksoe/Schockabsorber) Contains interesting information about files made in adobe director for shockwave
+- [phrack](http://phrack.org/issues/69/8.html) Mostly security information about shockwave files, but contains valuable low level information about the file format.
 
 ## Active developers communities
 These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
