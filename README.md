@@ -110,12 +110,12 @@ These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devne
 
 ## Next generation community efforts for ActionScript
 Here is a display of technologies, that are using `ActionScript` without being tied to Adobe
-- [Nextgen ActionScript](https://nextgenactionscript.com/) - Use ActionScript in a web browser... without a plug-in.
-- [blog post](https://joshblog.net/2015/introducing-nextgen-actionscript/) regarding the technology
+- [Apache FlexJS](http://flex.apache.org/) - The main application framework / layout engine configured with MXML. Originally created by Adobe, Flex is now
+open source and developed by the folks at Apache.
+- [FlexJS description](https://cwiki.apache.org/confluence/display/FLEX/FlexJS) - for more details
 - [OpenFL](http://www.openfl.org/) - OpenFL uses the familiar Flash API, but goes everywhere that Flash Player cannot. publishing native, Flash and HTML5 applications using one seamless toolset.
-- [FLEX](http://flex.apache.org/) - the main display list / layout engine made by Adobe configured with MXML, was
-open sourced by Adobe. Now it is being developed by the guys at NextGen ActionScript
-- [FLEX description](http://flex.apache.org/about-whatis.html) - for more details
+- [NextGen ActionScript](https://nextgenactionscript.com/) - Use ActionScript in a web browser... without a plug-in. A website collecting tutorials and open source utilities for FlexJS and more.
+- [blog post](https://joshblog.net/2015/introducing-nextgen-actionscript/) regarding the introduction of this website.
   
 OpenFL can compile code in Haxe into SWF, which means someone knows how to hack these binaries spec.
-Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas instead of Adobe's AGAL and use [Nextgen ActionScript](https://nextgenactionscript.com/) to transpile it into javascript. This induces the following flow - migrating Flash based source code into the web.
+Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas and WebGL instead of Adobe's Stage 3D and use the [Apache FlexJS](http://flex.apache.org/) compiler to transpile it into JavaScript. This induces the following flow - migrating Flash based source code into the web.
