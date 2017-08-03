@@ -1,3 +1,4 @@
+[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/pakastin/open-source-flash)
 # Petition to open source Flash and Shockwave spec
 
 [Adobe is going to stop distributing and updating Flash player and the Shockwave player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
