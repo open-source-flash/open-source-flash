@@ -98,6 +98,7 @@ There's already some projects to preserve Flash. The problem is that they're not
 - [Lightspark](https://lightspark.github.io/)
 - [Shumway](https://mozilla.github.io/shumway/)
 - [SWF specs](https://www.adobe.com/devnet/swf.html)
+- https://en.wikipedia.org/wiki/Adobe_Flash#Open_source
 
 ## Available analysis
 Projects that don't preserve Flash as such but provide knowledge about the file format:
