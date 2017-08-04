@@ -51,6 +51,7 @@ This petition will be delivered to Adobe.
 - [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
 - [Adobe open source](https://www.adobe.io/open/open-source.html)
 - [Another petition](https://www.change.org/p/adobe-systems-make-flash-open-source-before-it-s-too-late)
+- [History of Flash](http://mashable.com/2012/11/19/history-of-flash/)
 
 ## Flash and Shockwave as an art medium
 Flash and Shockwave was a platform for creative expression in an exciting new medium with global reach at a time when sound and moving images were barely breaking into the internet. Many artists took the media and shaped it to their own style. These digital pieces were both mesmerizing and disturbing. 
