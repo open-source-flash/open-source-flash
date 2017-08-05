@@ -28,6 +28,7 @@ This petition will be delivered to Adobe.
 - [Infoworld article](http://www.infoworld.com/article/3211348/web-development/petition-asks-adobe-to-open-source-flash.amp.html)
 - [SD Times article](http://sdtimes.com/developer-creates-petition-open-source-flash-specification/)
 - [MakeUseOf article](http://www.makeuseof.com/tag/developers-petition-adobe-open-source-flash/)
+- [The Register article](https://www.theregister.co.uk/2017/07/31/petition_to_open_source_adobe_flash/)
 - http://webwereld.nl/software/100140-maak-flash-open-source
 - http://mobil.derstandard.at/2000061874513/Open-Source-Petition-Fans-wollen-Flash-weiterleben-lassen
 - https://www.heise.de/amp/meldung/Petition-Flash-als-Open-Source-Rentner-3786837.html
