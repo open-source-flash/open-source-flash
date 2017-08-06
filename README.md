@@ -1,6 +1,8 @@
 [![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/pakastin/open-source-flash)
 # Petition to open source Flash and Shockwave spec
 
+[![Join the chat at https://gitter.im/open-source-flash/Lobby](https://badges.gitter.im/open-source-flash/Lobby.svg)](https://gitter.im/open-source-flash/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Adobe is going to stop distributing and updating Flash player and the Shockwave player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
 
 However Flash along with its sister project Shockwave is an important piece of Internet history and killing Flash and Shockwave means future generations can't access the past. Games, experiments and websites would be forgotten.
