@@ -1,7 +1,7 @@
 # Petition to open source Flash and Shockwave spec
-***
+
 [![Join the chat at https://gitter.im/open-source-flash/Lobby](https://badges.gitter.im/open-source-flash/Lobby.svg)](https://gitter.im/open-source-flash/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/pakastin/open-source-flash)
-***
+
 **Edit:** The first letter [is being written](https://github.com/pakastin/open-source-flash/blob/master/the-letter-to-adobe-%5BWIP%5D.md). If you want to contribute to it, you can either make pull requests or join the [Gitter chat](https://gitter.im/open-source-flash/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) to help us organize it 
 
 [Adobe is going to stop distributing and updating Flash player and the Shockwave player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
