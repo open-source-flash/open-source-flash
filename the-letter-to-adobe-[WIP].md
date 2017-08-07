@@ -1,6 +1,6 @@
 Dear Adobe,
 
-We love Flash. It has not only shaped the web to what it is today, but also affected so many areas we can't even imagine. Animations, gaming, broadcasting, advertising, music, arts, programming. The list is long.
+Flash has not only shaped the web to what it is today, but also affected so many areas we can't even imagine. Animations, gaming, broadcasting, advertising, music, arts, programming. The list is long.
 
 Open sourcing Flash would be a decent thing to do. We don't want to see a big portion of internet history to just vanish. Internet represents the whole world and initiatives like Internet Archive are important, but powerless without having open formats.
 
