@@ -94,7 +94,9 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
 - [Flashmixer](http://www.flashmixer.de)
 - [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
-- [Biomediaproject](http://biomediaproject.com) - Archive of all bionicle promotional material like Mata Nui Online Game and also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
+- [Biomediaproject](http://biomediaproject.com) - Archive of all bionicle promotional material like Mata Nui Online Game and 
+- [Memento Mori]( http://mementomori-1.net/ ) - Remember that you have to die
+also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
 
 
 ## Current state of Flash and Shockwave preservation
