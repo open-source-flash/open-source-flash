@@ -86,7 +86,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Madness Combat Series](http://www.krinkels.net/index_anim1.html)
 - [DICEWARS](http://www.gamedesign.jp/flash/dice/dice.html)
 - [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
-- [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
+- [The GROW games by EYEZMAZE](http://www.eyezmaze.com/) ([Wikipedia](https://en.wikipedia.org/wiki/GROW_(series)))
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
 - [Realm of the Mad God](http://realmofthemadgod.com/)
@@ -98,8 +98,8 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Memento Mori]( http://mementomori-1.net/ ) - Remember that you have to die
 also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
 - [Poke the bunny](http://www.platinumgrit.com/pokethebunny.htm)
-- [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/)
-- [QWOP](http://www.foddy.net/Athletics.html)
+- [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/) ([Wikipedia](https://en.wikipedia.org/wiki/Ishkur's_Guide_to_Electronic_Music))
+- [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
 
 
