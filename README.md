@@ -104,6 +104,12 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
 
+## Flash and Shockwave games
+Some of these games will probably disappear if Flash gets killed:
+- [Super Smash Flash 2](https://www.mcleodgaming.com/games/ssf2)
+- [SuperFighters](https://mythologicinteractive.com/Superfighters)
+- [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
+- [Abobo's Big Adventure](http://abobosbigadventure.com/)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
