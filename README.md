@@ -97,8 +97,8 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Flashmixer](http://www.flashmixer.de)
 - [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
 - [Biomediaproject](http://biomediaproject.com) - Archive of all bionicle promotional material like Mata Nui Online Game and 
-- [Memento Mori]( http://mementomori-1.net/ ) - Remember that you have to die
 also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
+- [Memento Mori]( http://mementomori-1.net/ ) - Remember that you have to die
 - [Poke the bunny](http://www.platinumgrit.com/pokethebunny.htm)
 - [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/) ([Wikipedia](https://en.wikipedia.org/wiki/Ishkur's_Guide_to_Electronic_Music))
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
