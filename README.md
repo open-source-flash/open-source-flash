@@ -103,6 +103,7 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/) ([Wikipedia](https://en.wikipedia.org/wiki/Ishkur's_Guide_to_Electronic_Music))
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
+- [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
 
 
 ## Current state of Flash and Shockwave preservation
