@@ -13,5 +13,3 @@ https://github.com/pakastin/open-source-flash
 Yours truly,
 
 Friends of Flash and Shockwave
-
-[work in progress]
