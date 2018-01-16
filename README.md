@@ -120,6 +120,7 @@ There's already some projects to preserve Flash. The problem is that they're not
 - [Shumway](https://mozilla.github.io/shumway/)
 - [SWF specs](https://www.adobe.com/devnet/swf.html)
 - https://en.wikipedia.org/wiki/Adobe_Flash#Open_source
+- [Earthquake Project](https://github.com/Earthquake-Project) - Documenting formats and creating decompiler for Director/Shockwave files
 
 ## Available analysis
 Projects that don't preserve Flash as such but provide knowledge about the file format:
