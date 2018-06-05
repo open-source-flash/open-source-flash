@@ -1,14 +1,12 @@
 Dear Adobe,
 
-Flash and Shockwave have not only shaped the web to what it is today, but also affected so many areas we couldn't even imagine before. Animations, gaming, broadcasting, advertising, music, arts, programming. The list is long.
+Flash and Shockwave have not only shaped the web into what it is today, but also affected so many areas we couldn't even imagine before. Animations, gaming, broadcasting, advertising, music, arts, programming. The list is long.
 
-Open sourcing Flash and Shockwave would be a decent thing to do. We don't want to see a big portion of internet history to just vanish. Internet represents the whole world and initiatives like Internet Archive are important, but powerless without having open formats.
+Open sourcing Flash and Shockwave would be a decent thing to do. We don't want to see a big portion of internet history vanish. The internet represents the whole world and initiatives like the Internet Archive are important, but powerless without having open formats.
 
-There are so many projects going on to preserve Flash and Shockwave content, which would benefit from open sourcing.
-We know you can't open source everything. You can leave such parts off with a note what's missing. We also know some parts have already been open sourced, but there's too much missing.
+There are many projects going on to preserve Flash and Shockwave content, which would benefit from open sourcing. We know you can't open source everything. You may withhold such parts and provide a note of what's missing. We know that a few parts have already been open sourced, but Flash and Shockwave remain proprietary formats.
 
-Please see our open sourced petition and help us to preserve a piece of internet history:
-https://github.com/pakastin/open-source-flash
+Please see our open sourced petition and help us to preserve internet history: https://github.com/pakastin/open-source-flash
 
 Yours truly,
 
