@@ -65,6 +65,7 @@ Flash and Shockwave was a platform for creative expression in an exciting new me
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
+- [Superior Web Solutions](http://superior-web-solutions.com/)
 - [We Choose the Moon](http://wechoosethemoon.org/)
 - [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
