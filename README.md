@@ -105,6 +105,7 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
 - [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
+- [Ultimate Flash Sonic](https://www.newgrounds.com/portal/view/151706)
 
 ## Flash and Shockwave games
 Some of these games will probably disappear if Flash gets killed:
