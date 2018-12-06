@@ -112,6 +112,8 @@ Some of these games will probably disappear if Flash gets killed:
 - [SuperFighters](https://mythologicinteractive.com/Superfighters)
 - [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
 - [Abobo's Big Adventure](http://abobosbigadventure.com/)
+- [Transformice](https://transformice.com)
+- [Dead Maze](https://deadmaze.com/alpha)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
