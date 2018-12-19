@@ -115,6 +115,7 @@ Some of these games will probably disappear if Flash gets killed:
 - [Abobo's Big Adventure](http://abobosbigadventure.com/)
 - [Transformice](https://transformice.com)
 - [Dead Maze](https://deadmaze.com/alpha)
+- [Habbo Hotel](https://habbo.com)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
