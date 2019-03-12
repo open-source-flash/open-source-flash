@@ -1,4 +1,4 @@
-Dear Adobe,
+To whom it may concern,
 
 Flash and Shockwave have not only shaped the web into what it is today, but also affected so many areas we couldn't even imagine before. Animations, gaming, broadcasting, advertising, music, arts, programming. The list is long.
 
@@ -8,6 +8,6 @@ There are many projects going on to preserve Flash and Shockwave content, which 
 
 Please see our open sourced petition and help us to preserve internet history: https://github.com/pakastin/open-source-flash
 
-Yours truly,
+Regards,
 
-Friends of Flash and Shockwave
+Your friends of Flash and Shockwave
