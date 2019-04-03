@@ -6,7 +6,7 @@ Open sourcing Flash and Shockwave would be a decent thing to do. We don't want t
 
 There are many projects going on to preserve Flash and Shockwave content, which would benefit from open sourcing. We know you can't open source everything. You may withhold such parts and provide a note of what's missing. We know that a few parts have already been open sourced, but Flash and Shockwave remain proprietary formats.
 
-Please see our open sourced petition and help us to preserve internet history: https://github.com/pakastin/open-source-flash
+Please see our open sourced petition and help us to preserve internet history: https://github.com/open-source-flash/open-source-flash
 
 Regards,
 
